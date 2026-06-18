@@ -14,5 +14,5 @@ print(f"1st no Square: {num1 * num1}")
 
 print(f"2nd no Square: {num2 * num2}"
 
-print("This Calculator is made by VyanKatesh by mistaken")
+print("This Calculator is made by VyanKatesh ")
 
